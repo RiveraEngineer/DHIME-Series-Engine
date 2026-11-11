@@ -72,7 +72,7 @@ Cada serie descargada trae su figura. Si pides temperatura y humedad de la misma
 
 Un recorrido de un minuto por la aplicación.
 
-[![Recorrido de DHIME Series Engine 1.0.0](Video/Portada_DHIME_Series_Engine_1.0.0.png)](Video/DHIME_Series_Engine_1.0.0.mp4?raw=true)
+https://github.com/user-attachments/assets/db24d11e-67df-428e-9836-8e8bad9cd8db
 
 ## Cosas que conviene saber
 
