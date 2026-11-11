@@ -11,6 +11,7 @@ authors:
     website: "https://github.com/RiveraEngineer"
 version: "1.0.0"
 date-released: "2026-11-11"
+doi: "10.5281/zenodo.24139806"
 url: "https://github.com/RiveraEngineer/DHIME-Series-Engine"
 abstract: "Aplicación de escritorio para consultar, visualizar y descargar series hidrometeorológicas del IDEAM por estación, parámetro y periodo, con consultas individuales o por lotes y figuras científicas."
 keywords:
