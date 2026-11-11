@@ -93,7 +93,9 @@ Si algo no carga o un resultado no cuadra, abre un [issue](https://github.com/Ri
 
 Si la usas en una tesis, un informe o un artículo, puedes citarla así
 
-> Rivera Monroy, S. A. (2026). *DHIME Series Engine* (Versión 1.0.0) [Software]. GitHub. https://github.com/RiveraEngineer/DHIME-Series-Engine
+> Rivera Monroy, S. A. (2026). *DHIME Series Engine* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24139806
+
+Ese DOI corresponde a la versión 1.0.0. El DOI [10.5281/zenodo.24139805](https://doi.org/10.5281/zenodo.24139805) lleva siempre a la versión más reciente.
 
 Los datos se citan aparte, con el IDEAM como fuente. En [CITAR.md](CITAR.md) están el formato BibTeX y un modelo para citar las series descargadas. El botón «Cite this repository» de esta página entrega la misma referencia en APA y BibTeX.
 
