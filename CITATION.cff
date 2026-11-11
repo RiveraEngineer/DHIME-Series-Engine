@@ -1,0 +1,20 @@
+cff-version: "1.2.0"
+message: "Si usas DHIME Series Engine en una investigación, un informe o una publicación, cita el software con su versión y cita al IDEAM como proveedor de los datos."
+type: software
+license: "MIT"
+title: "DHIME Series Engine"
+authors:
+  - family-names: "Rivera Monroy"
+    given-names: "Sergio Alejandro"
+    alias: "RiveraEngineer"
+    orcid: "https://orcid.org/0009-0003-5470-8856"
+    website: "https://github.com/RiveraEngineer"
+version: "1.0.0"
+date-released: "2026-11-11"
+url: "https://github.com/RiveraEngineer/DHIME-Series-Engine"
+abstract: "Aplicación de escritorio para consultar, visualizar y descargar series hidrometeorológicas del IDEAM por estación, parámetro y periodo, con consultas individuales o por lotes y figuras científicas."
+keywords:
+  - hidrología
+  - meteorología
+  - IDEAM
+  - series temporales
