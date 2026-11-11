@@ -8,9 +8,9 @@ Si usas la herramienta en una investigación, un informe o una publicación, agr
 
 ## Referencia sugerida
 
-Rivera Monroy, S. A. (2026). *DHIME Series Engine* (Versión 1.0.0) [Software]. GitHub. https://github.com/RiveraEngineer/DHIME-Series-Engine
+Rivera Monroy, S. A. (2026). *DHIME Series Engine* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24139806
 
-La referencia corresponde al software. Para reproducir una consulta, registra también la estación, el parámetro, la unidad, el periodo solicitado, la fecha de consulta y la versión de la herramienta. Conserva el nombre del instalador utilizado y su [huella SHA-256](Descargar/DHIME_Series_Engine_1.0.0_Instalador.exe.sha256).
+La referencia corresponde al software. Para reproducir una consulta, registra también la estación, el parámetro, la unidad, el periodo solicitado, la fecha de consulta y la versión de la herramienta. Conserva el nombre del instalador utilizado y su huella SHA-256, que está en [docs/INSTALACION.md](docs/INSTALACION.md).
 
 ## BibTeX
 
@@ -20,6 +20,8 @@ La referencia corresponde al software. Para reproducir una consulta, registra ta
   title   = {DHIME Series Engine},
   version = {1.0.0},
   year    = {2026},
+  publisher = {Zenodo},
+  doi     = {10.5281/zenodo.24139806},
   url     = {https://github.com/RiveraEngineer/DHIME-Series-Engine},
   note    = {ORCID: 0009-0003-5470-8856}
 }
@@ -41,4 +43,4 @@ Indica el servicio realmente utilizado según la información de la descarga. Si
 
 Los [créditos](CREDITOS.md) distinguen las fuentes de datos, las bibliotecas utilizadas y los proyectos evaluados. La aplicación se distribuye como instalador y, junto con su documentación, bajo [MIT](LICENSE), conservando el aviso de autoría y la licencia. La cita académica se pide como reconocimiento; no es una condición adicional de esa licencia.
 
-No se ha asignado un DOI a esta versión. Una futura publicación archivada en Zenodo podrá añadirlo cuando exista, conservando las citas de las versiones anteriores.
+La versión 1.0.0 está archivada en Zenodo con el DOI [10.5281/zenodo.24139806](https://doi.org/10.5281/zenodo.24139806). El DOI [10.5281/zenodo.24139805](https://doi.org/10.5281/zenodo.24139805) reúne todas las versiones y lleva siempre a la más reciente.
